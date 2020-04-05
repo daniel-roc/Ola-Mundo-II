@@ -1,2 +1,2 @@
-# Ola Mundo II
- Primeiro respositório do curso de Git
+# Olá Mundo
+Repositório criado na aula de Git e GitHub.
